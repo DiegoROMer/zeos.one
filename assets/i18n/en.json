@@ -11,14 +11,15 @@
       "fourth-item": "Token",
       "fifth-item": "Roadmap",
       "sixth-item": "Resources",
-      "first-item-alt": "Token logo Image",
+      "seventh-item": "Wallet (WIP)",
 
       "first-item-title": "Go to Home",
       "second-item-title": "Go to zAseets",
       "third-item-title": "Go to Roadmap",
-      "fourth-item-title": "Go to Resources",
-      "fifth-item-title": "Go to Resources",
-      "sixth-item-title": "Go to Resources"
+      "fourth-item-title": "Go to Token",
+      "fifth-item-title": "Go to Roadmap",
+      "sixth-item-title": "Go to Resources",
+      "seventh-item-title": "Wallet (currently on development)"
     }
   },
   "public": {
@@ -56,8 +57,8 @@
         "second-container-alt": "Fractionally-algorithmic",
         "second-container-title": "Fractionally-algorithmic",
         "second-container-text": "zAssets are not exclusively created by burning ZEOS. Instead, depending on the overall valuation of all zAssets in circulation and the ZEOS token itself the protocol maintains a pool of external collateral to reduce risk of becoming 'over-leveraged'.",
-        "third-container-alt": "Governance Token",
-        "third-container-title": "Governance Token",
+        "third-container-alt": "Capital efficient",
+        "third-container-title": "Capital efficient",
         "third-container-text": "The elastic token supply of ZEOS allows for more capital-efficiency when minting zAssets: There is no over-collateralization. Users who mint zAssets lock the exact same value in the protocol as they receive from the protocol in form of zAssets - or vice versa in case of burning. This is in contrast to collateralized dept positions (CDP) where several dollars of collateral need to be locked in order to create one dollar of CDP.",
         "fourth-container-alt": "Backed by ZEOS, EOS and Vigor",
         "fourth-container-title": "Backed by ZEOS, EOS and Vigor",
@@ -71,8 +72,8 @@
         "second-container-alt": "Share Token",
         "second-container-title": "Share Token",
         "second-container-text": "ZEOS is the so-called 'share token' which is - in addition to external collateral - required to mint synthetic zAssets. The higher the valuation of ZEOS compared to the valuation of all circulating zAssets the more ZEOS gets burned when new synthetic assets get minted.",
-        "third-container-alt": "Capital-efficient",
-        "third-container-title": "Capital-efficient",
+        "third-container-alt": "Governance Token",
+        "third-container-title": "Governance Token",
         "third-container-text": "ZEOS is the governance token of the smart organization which governs the ZEOS ecosystem. Details about the governance tokenomics have not been finalized yet. It will most likely include a staking requirement for all members of the organization."
       },
       "fifth-step": {
