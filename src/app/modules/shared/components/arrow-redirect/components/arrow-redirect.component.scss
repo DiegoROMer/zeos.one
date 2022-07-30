@@ -59,7 +59,9 @@
   }
 
   100% {
-    opacity: 0;
+    opacity: 0.15;
     transform: rotate(45deg) translate(20px, 20px);
+    border-bottom: 5px solid var(--primary-color);
+    border-right: 5px solid var(--primary-color);
   }
 }
